@@ -89,4 +89,4 @@ If you have any questions or want to connect, feel free to reach out:
 - **LinkedIn**: [Sunkara Pooja Sri](https://www.linkedin.com/in/pooja-sri-sunkara-b93b90259/)
 - **GitHub**: [Poojasrisunkara](https://github.com/Poojasrisunkara)
 
-  Thank you for checking out WeatherWatch!
+Thank you for checking out WeatherWatch!
