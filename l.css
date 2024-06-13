@@ -1,6 +1,7 @@
 body {
   background-image: url('images/i25.jpg');
   background-size: cover;
+  height: 100vh;
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
