@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherWatch</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@400..700&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="l.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <div id="box-content">
+                <p class="p1" style="color: white; font-family: Cookie;  font-size: 38px; margin:60px 0px 50px 40px;">Welcome to WeatherWatch</p>
+                <div class="os">
+                    <div class="is">
+                        <input type="text" id="city-input" class="s" placeholder="Search for place">
+                    </div>
+                    <div class="di1">
+                        <img src="images/i22.jpg" id="search-button" class="i1">
+                    </div>
+                </div>
+                <img src="images/i23.png" class="i2">
+            </div>
+            <div id="weather-info" style="display: none;" class="divt">
+                <div class="ht">
+                    <div class="icon">
+                        <img id="weather-icon" src="" alt="Weather Icon" style="display: none;">
+                    </div>
+                    <div>
+                        <p id="temp" class="bb1"></p>
+                        <p id="description" class="c"></p>
+                    </div>
+                </div>
+                <div class="ht1">
+                    <div class="g1">
+                        <p id="hum"></p>
+                        <p id="feels"></p>
+                        <p id="clouds"></p>
+                    </div>
+                    <div class="g2">
+                        <p>Air Quality</p>
+                        <div id="air-quality-container">
+                            <svg id="air-quality-circle" viewBox="0 0 36 36">
+                                <path id="circle-bg" d="M18 2.0845a 15.9155 15.9155 0 1 1 0 31.831 a 15.9155 15.9155 0 1 1 0-31.831"/>
+                                <path id="circle-progress" d="M18 2.0845a 15.9155 15.9155 0 1 1 0 31.831 a 15.9155 15.9155 0 1 1 0-31.831"/>
+                            </svg>
+                            <span id="air-quality"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="ht3">
+                    <div class="prec">
+                        <p id="precipitation">
+                            Precipitation: <span class="number">0</span> mm (last hour)
+                            <div id="precipitation-bar-container">
+                                <div id="precipitation-bar"></div>
+                            </div>
+                        </p>
+                    </div>
+                    <div class="day">
+                        <p id="day-night"></p>
+                    </div>
+                </div>
+                <div class="ht2">
+                    <div class="g3">
+                       <img src="images/i24.png" class="i24">
+                    </div>
+                    <div class="g4">
+                        <p id="wind"></p>
+                        <p id="pressure"></p>
+                    </div>
+                </div>
+                <p id="error" >Error fetching weather data. Please try again.</p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
