@@ -310,9 +310,11 @@ body {
 }
 .ht2{
   display: grid;
-  grid-template-columns: 160px 180px;
+  grid-template-columns: 140px 180px;
   column-gap: 0px;
 }
+.i24{
+  margin-left: 10px;
 .g3{
   text-align: center;
   margin-left: 20px;
@@ -323,7 +325,7 @@ body {
 }
 .ht3{
   display: grid;
-  grid-template-columns: 200px 100px;
+  grid-template-columns: 230px 100px;
   column-gap: 0px;
 }
 .h{
