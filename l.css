@@ -323,7 +323,7 @@ body {
 }
 .ht3{
   display: grid;
-  grid-template-columns: 240px 100px;
+  grid-template-columns: 235px 105px;
   column-gap: 0px;
 }
 .h{
