@@ -1,5 +1,5 @@
-# WeatherNow
-Welcome to WeatherNow! This project was created as part of my internship at Prodigy Infotech. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions.
+# WeatherWatch
+Welcome to WeatherWatch! This project was created as part of my internship at Prodigy Infotech. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions.
 
 ## Table of Contents
 
