@@ -81,12 +81,11 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## Contact
-
-If you have any questions or want to connect, feel free to reach out:
-
-- **Email**: poojasrisunkara@gmail.com
-- **LinkedIn**: [Sunkara Pooja Sri](https://www.linkedin.com/in/pooja-sri-sunkara-b93b90259/)
-- **GitHub**: [Poojasrisunkara](https://github.com/Poojasrisunkara)
+## Team members
+S.Pooja sri vu22csen0100625
+S.Siva Ganesh vu22csen01096
+Ch.Sravani vu22csen0100889
+sreekar vu22csen0100210
+B.Keerthana vu22csen0100461
 
 Thank you for checking out WeatherWatch!
