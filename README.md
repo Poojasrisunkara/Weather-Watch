@@ -1,5 +1,5 @@
 # WeatherWatch
-Welcome to WeatherWatch! This project was created as part of my internship at Prodigy Infotech. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions.
+Welcome to WeatherWatch! This project was created as part of our Software Engineering Task-2. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions. This is based on the infamous water-fall Model.
 
 ## Table of Contents
 
