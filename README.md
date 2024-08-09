@@ -85,7 +85,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 S.Pooja sri vu22csen0100625
 S.Siva Ganesh vu22csen01096
 Ch.Sravani vu22csen0100889
-sreekar vu22csen0100210
+T.Sreekar vu22csen0100219
 B.Keerthana vu22csen0100461
 
 Thank you for checking out WeatherWatch!
