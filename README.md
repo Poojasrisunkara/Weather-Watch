@@ -1,5 +1,4 @@
 # WeatherWatch
-Welcome to WeatherWatch! This project was created as part of our Software Engineering Task-2. The weather website provides real-time weather information and dynamically changes its background based on the current weather conditions. This is based on the infamous water-fall Model.
 
 ## Table of Contents
 
@@ -80,12 +79,5 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## Team members
-S.Pooja sri vu22csen0100625
-S.Siva Ganesh vu22csen01096
-Ch.Sravani vu22csen0100889
-T.Srikar vu22csen0100219
-B.Keerthana vu22csen0100461
 
 Thank you for checking out WeatherWatch!
